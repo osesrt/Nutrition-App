@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>README</title>
+  </head>
+  <body>
+    <h1>Rails training app</h1>.
+
+    <p>This app is being developing to learn RoR</p>.
+  </body>
+</html>
